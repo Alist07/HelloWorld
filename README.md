@@ -1,2 +1,2 @@
 # Cubs still suck
-color 2
+# color 2
